@@ -11,10 +11,10 @@ Este projeto foi desenvolvido no  Next Level Week - NLW3 da [Rocketseat](https:/
 - clone com **git clone** https://github.com/liara987/Happy-NLW-3.git
 - entre na pasta **web**
 - instale as dependências **yarn install**
-- em **src/components** crie um arquivo chamado **token.ts**
+- em **src/components** crie um arquivo chamado **Token.ts**
 - inicie o projeto com **yarn start**
 ```
-//token.ts
+//Token.ts
 import { tokenToString } from "typescript";
 
 const token = {
